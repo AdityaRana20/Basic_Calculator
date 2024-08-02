@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body {
-    background-image: url('calc.jpg'); /* Update the path to your image */
+    background-image: url('Output-Result/calc.jpg'); /* Update the path to your image */
     background-size: cover; /* Ensures the image covers the entire background */
     background-position: center center; /* Centers the image */
     background-attachment: fixed; /* Keeps the background image fixed */
